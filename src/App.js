@@ -3,7 +3,6 @@ import axios from 'axios';
 import Navbar from './components/layout/Navbar';
 import Users from './components/users/Users';
 import './App.css';
-import Axios from 'axios';
 
 class App extends Component {
   state = {
